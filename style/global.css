@@ -38,7 +38,7 @@
   
   --surface-color: #18181B;
   
-  --backgorund-color: #09090B;
+  --bg-color: #09090B;
   --stroke-default:  #27272A;
 
   --brand-color-primary: #f7b733;
@@ -56,7 +56,7 @@ html {
 
 
 body {
-  background-color: var(--backgorund-color);
+  background-color: var(--bg-color);
 }
 
 h1, h2 ,h3 {

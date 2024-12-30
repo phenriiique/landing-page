@@ -31,6 +31,14 @@
 
 }
 
+.flex {
+  display: flex;
+}
+
+.gap-1 {
+  gap: 1rem;
+}
+
 /*Quando em tela Grande*/
 @media (width >= 80em){ /*1280px*/
   .container {
