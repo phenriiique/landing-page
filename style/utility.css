@@ -10,6 +10,9 @@
   padding-block: var(--py-xl);
 }
 
+.px-lg {
+  padding-inline: var(--px-lg);
+} 
 .px-xl {
   padding-inline: var(--px-xl);
 }
@@ -29,6 +32,10 @@
   display: grid;
   gap: 1rem;
 
+}
+
+.grid {
+  display: grid;
 }
 
 .flex {
