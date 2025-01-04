@@ -52,6 +52,8 @@ html {
   font-size: var(--fs-base);
   line-height: 1.6;
   color: var(--text-color-primary);
+
+  overflow-x: hidden;
 }
 
 
@@ -103,7 +105,6 @@ ul[role="list"] {
 img {
   max-width: 100%;
   display: inline-block;
-  
 }
 
 @media (width >= 80em){ /*1280px*/
